@@ -3,10 +3,10 @@
   <channel>
     <title>Michael Archibald</title>
     <description>Programming, Economics and Leadership musings</description>
-    <link>http://localhost:4000/</link>
-    <atom:link href="http://localhost:4000/sitemap.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 09 Jul 2017 16:59:26 -0600</pubDate>
-    <lastBuildDate>Sun, 09 Jul 2017 16:59:26 -0600</lastBuildDate>
+    <link>/</link>
+    <atom:link href="/sitemap.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sun, 09 Jul 2017 17:02:34 -0600</pubDate>
+    <lastBuildDate>Sun, 09 Jul 2017 17:02:34 -0600</lastBuildDate>
     <generator>Jekyll v3.4.3</generator>
     
       <item>
@@ -14,8 +14,8 @@
         <description>&lt;h2 id=&quot;what-is-the-fundamental-difference-between-leadership-and-management&quot;&gt;What is the fundamental Difference between Leadership and Management?&lt;/h2&gt;
 </description>
         <pubDate>Sun, 09 Jul 2017 07:50:39 -0600</pubDate>
-        <link>http://localhost:4000/leadership/management/2017/07/09/leadership-and-management.html</link>
-        <guid isPermaLink="true">http://localhost:4000/leadership/management/2017/07/09/leadership-and-management.html</guid>
+        <link>/leadership/management/2017/07/09/leadership-and-management.html</link>
+        <guid isPermaLink="true">/leadership/management/2017/07/09/leadership-and-management.html</guid>
         
         
         <category>leadership</category>
@@ -88,8 +88,8 @@ The next time someone approaches you with a problem that feels like it should be
 &lt;p&gt;I feel strongly that every organizational culture would change dramatically if they took this approach. The guiding principles of each role will reveal common areas of interest/concern. You’ll find allies you never knew you had. You’ll have more insight into the health of the organization, into the well-being of the product and the happiness of the people you work with.&lt;/p&gt;
 </description>
         <pubDate>Fri, 24 Feb 2017 06:50:39 -0700</pubDate>
-        <link>http://localhost:4000/leadership/management/2017/02/24/principles-and-principalities.html</link>
-        <guid isPermaLink="true">http://localhost:4000/leadership/management/2017/02/24/principles-and-principalities.html</guid>
+        <link>/leadership/management/2017/02/24/principles-and-principalities.html</link>
+        <guid isPermaLink="true">/leadership/management/2017/02/24/principles-and-principalities.html</guid>
         
         
         <category>leadership</category>
@@ -102,7 +102,7 @@ The next time someone approaches you with a problem that feels like it should be
       <item>
         <title>Cool project 1</title>
         <description>Cool project 1</description>
-        <link>http://localhost:4000#</link>
+        <link>#</link>
         <pubDate>Wed, 01 Jan 2014 00:00:00 -0700</pubDate>
         
         <category>Angular JS</category>
@@ -114,7 +114,7 @@ The next time someone approaches you with a problem that feels like it should be
       <item>
         <title>Cool project 2</title>
         <description>Cool project 2</description>
-        <link>http://localhost:4000#</link>
+        <link>#</link>
         <pubDate>Thu, 01 May 2014 00:00:00 -0600</pubDate>
         
         <category>Android</category>
@@ -126,7 +126,7 @@ The next time someone approaches you with a problem that feels like it should be
       <item>
         <title>Cool project 3</title>
         <description>Cool project 3</description>
-        <link>http://localhost:4000#</link>
+        <link>#</link>
         <pubDate>Sun, 01 Jun 2014 00:00:00 -0600</pubDate>
         
         <category>HTML</category>
@@ -140,7 +140,7 @@ The next time someone approaches you with a problem that feels like it should be
       <item>
         <title>Cool project 4</title>
         <description>Cool project 4</description>
-        <link>http://localhost:4000</link>
+        <link></link>
         <pubDate>Sat, 01 Oct 2016 00:00:00 -0600</pubDate>
         
         <category>Android</category>

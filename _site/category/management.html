@@ -24,11 +24,11 @@
   <meta content="Programming, Economics and Leadership musings" property="og:description">
 
 
-  <meta content="http://localhost:4000/category/management" property="og:url">
+  <meta content="/category/management" property="og:url">
 
 
 
-  <meta content="http://localhost:4000/static/img/logo-high-resolution.png" property="og:image">
+  <meta content="/static/img/logo-high-resolution.png" property="og:image">
 
 
   
@@ -43,7 +43,7 @@
   <meta name="twitter:title" content="Management">
 
 
-  <meta name="twitter:url" content="http://localhost:4000/category/management">
+  <meta name="twitter:url" content="/category/management">
 
 
   <meta name="twitter:description" content="Programming, Economics and Leadership musings">
@@ -51,7 +51,7 @@
 
 
       <link rel="alternate" type="application/rss+xml" title="RSS" href="/feed.xml">
-      <script type="text/javascript">window.baseurl = 'http://localhost:4000';</script>
+      <script type="text/javascript">window.baseurl = '';</script>
       
         <!-- Custom Fonts -->
         <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Roboto:300,400,500,700" type="text/css">
@@ -110,7 +110,12 @@
           </div>
           <div class="col-md-9 col-sm-8 col-xs-12">
           <div class="row">
-            <h2 class="blog-title-pro ">Management</h2>
+            <h2 class="blog-title-pro col-md-6 col-sm-12 col-xs-12 ">Management</h2>
+            
+            <div class="col-md-6 col-sm-12 col-xs-12 searchcontrol" id="js-search">
+              <input class="form-control" type="text" id="js-search__input" placeholder="Search">
+              <ul class="search__results" id="js-search__results"></ul>
+            </div>
             
             </div>
             <p class="info">
@@ -141,61 +146,85 @@
 	
 	
 	
+
 	
+
 	
-    
+  
 	
-	<li class="col-lg-12 col-md-12 col-sm-4 col-xs-12  management"><a href="/" target="_self"><i class="fa fa-home"></i> Home</a></li>
+	<li class="col-lg-12 col-md-12 col-sm-4 col-xs-12  management">
+		<a href="/" target="_self"><i class="fa fa-home"></i> Home</a>
+	</li>
 
 	
 	
 	
 	
+
 	
+
 	
-    
+  
 	
-	<li class="col-lg-12 col-md-12 col-sm-4 col-xs-12  management"><a href="/about/" target="_self"><i class="fa fa-comments"></i> About</a></li>
+	<li class="col-lg-12 col-md-12 col-sm-4 col-xs-12  management">
+		<a href="/about/" target="_self"><i class="fa fa-comments"></i> About</a>
+	</li>
 
 	
 	
 	
 	
+
 	
+
 	
-    
+  
 	
-	<li class="col-lg-12 col-md-12 col-sm-4 col-xs-12  management"><a href="/projects" target="_self"><i class="fa fa-desktop"></i> Projects</a></li>
+	<li class="col-lg-12 col-md-12 col-sm-4 col-xs-12  management">
+		<a href="/projects" target="_self"><i class="fa fa-desktop"></i> Projects</a>
+	</li>
 
 	
 	
 	
 	
+
 	
+
 	
-    
+  
 	
-	<li class="col-lg-12 col-md-12 col-sm-4 col-xs-12  management"><a href="/#" target="_self"><i class="fa fa-graduation-cap"></i> Resume</a></li>
+	<li class="col-lg-12 col-md-12 col-sm-4 col-xs-12  management">
+		<a href="/resume/" target="_self"><i class="fa fa-graduation-cap"></i> Resume</a>
+	</li>
 
 	
 	
 	
 	
+
 	
+
 	
-    
+  
 	
-	<li class="col-lg-12 col-md-12 col-sm-4 col-xs-12  management"><a href="/#" target="_self"><i class="fa fa-github"></i> Github</a></li>
+	<li class="col-lg-12 col-md-12 col-sm-4 col-xs-12  management">
+		<a href="https://github.com/neener54" target="_self"><i class="fa fa-github"></i> Github</a>
+	</li>
 
 	
 	
 	
 	
+
 	
+
 	
-    
+  
 	
-	<li class="col-lg-12 col-md-12 col-sm-4 col-xs-12  management"><a href="/feed.xml" target="_blank"><i class="fa fa-feed"></i> XML Feed</a></li>
+	<li class="col-lg-12 col-md-12 col-sm-4 col-xs-12  management">
+		<a href="/feed.xml" target="_blank"><i class="fa fa-feed"></i> XML Feed</a>
+	</li>
 
 </ul>
 
@@ -243,7 +272,7 @@
             
             
             <div class="least-content">09 Jul 2017</div>
-            <h4 class="list-group-item-heading"><a href="http://localhost:4000/leadership/management/2017/07/09/leadership-and-management.html">Leadership and Management</a></h4>
+            <h4 class="list-group-item-heading"><a href="/leadership/management/2017/07/09/leadership-and-management.html">Leadership and Management</a></h4>
             <p class="list-group-item-text">What is the fundamental Difference between Leadership and Management?
 </p>
             
@@ -265,7 +294,7 @@
                 
             
             <div class="least-content">24 Feb 2017</div>
-            <h4 class="list-group-item-heading"><a href="http://localhost:4000/leadership/management/2017/02/24/principles-and-principalities.html">Principles and Principalities</a></h4>
+            <h4 class="list-group-item-heading"><a href="/leadership/management/2017/02/24/principles-and-principalities.html">Principles and Principalities</a></h4>
             <p class="list-group-item-text">Gatekeeping Success on any major scale requires you to accept responsibility… in the final analysis, the one quality that all...</p>
             
             </div>
@@ -304,6 +333,8 @@
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
 <script src="https://code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
+
+<script src="/static/js/super-search.js"></script>
 
 <script src="/static/js/thickbox-compressed.js"></script>
 <script src="/static/js/material.min.js"></script>
