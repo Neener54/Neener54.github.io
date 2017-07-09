@@ -5,21 +5,21 @@ logo: https://avatars0.githubusercontent.com/u/251132
 github: https://github.com/neener54
 about: Ruby Software Craftsman
 
-baseurl: "neener54.github.io"
-url: ""
+baseurl: ""
+url: "neener54.github.io"
 
-allowsearch: true
+allowsearch: false
 
 disqus_shortname: neener54
 google_analytics: UA-72862926-1
 
 share:
-  twitter_username: \#
+  twitter_username: \micharch54
   fb_appid: 000000000000
 
 
 enableTags: true
-tagarray: []
+tagarray: [leadership, management, ruby]
 
 paginate: 20
 per_page: 20
