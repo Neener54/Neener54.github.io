@@ -1,18 +1,14 @@
 [
   {
-    "icon": "fa-facebook",
-    "link": ""
-  },
-  {
     "icon": "fa-twitter",
-    "link": ""
+    "link": "https://twitter.com/micharch54"
   },
   {
     "icon": "fa-linkedin",
-    "link": ""
+    "link": "https://www.linkedin.com/in/michael-archibald-49507716/"
   },
   {
     "icon": "fa-stack-exchange",
-    "link": ""
+    "link": "https://stackoverflow.com/users/424809/micharch54"
   }
 ]
