@@ -1,5 +1,6 @@
 ---
 layout: resume
+title: management skills
 ---
 
 ## Technical Management Skills  

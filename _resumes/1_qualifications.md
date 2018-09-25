@@ -1,5 +1,6 @@
 ---
 layout: resume
+title: qualifications
 ---
 
 # Summary Of Qualifications  

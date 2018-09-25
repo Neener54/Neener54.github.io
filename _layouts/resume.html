@@ -1,8 +1,15 @@
 ---
 layout: default
 ---
+<div class="well">
+<ol>
 {% for resume in site.resumes %}
-  <div class="well">
+  <li><a href="#{{ resume.title }}">{{ resume.title | capitalize }}</a></li>
+{% endfor %}
+</ol>
+</div>
+{% for resume in site.resumes %}
+  <div class="well" id="{{resume.title}}">
     {{ resume.content }}
   </div>
 {% endfor %}
