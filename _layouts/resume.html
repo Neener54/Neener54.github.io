@@ -1,0 +1,15 @@
+---
+layout: default
+---
+{% for resume in site.resumes %}
+  <div class="well">
+    {{ resume.content }}
+  </div>
+{% endfor %}
+<div class="projects">
+  {% for experience in site.experiences %}
+    <div class="project-item col-md-12 col-sm-12 col-xs-12 well">
+      {{ experience.content }}
+    </div>
+  {% endfor %}
+</div>

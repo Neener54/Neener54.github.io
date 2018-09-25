@@ -1,0 +1,10 @@
+---
+layout: resume
+---
+<h2>Professional Experience</h2>
+
+{% for experience in site.experiences %}
+  <div class="project-item col-md-12 col-sm-12 col-xs-12">
+    {{ experience.content }}
+  </div>
+{% endfor %}

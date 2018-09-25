@@ -1,7 +1,5 @@
 ---
-layout: page
+layout: resume
 title: Resume
 permalink: /resume/
 ---
-
-Resume coming soon

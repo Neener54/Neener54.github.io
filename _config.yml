@@ -26,3 +26,9 @@ per_page: 20
 paginate_path: "/page:num/"
 markdown: kramdown
 gems: [jekyll-paginate, jekyll-gist]
+
+collections:
+  resumes:
+    section: true
+  experiences:
+    section: true
