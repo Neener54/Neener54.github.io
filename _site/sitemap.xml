@@ -3,19 +3,19 @@
   <channel>
     <title>Michael Archibald</title>
     <description>Programming, Economics and Leadership musings</description>
-    <link>http://localhost:4000/</link>
-    <atom:link href="http://localhost:4000/sitemap.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 24 Sep 2018 18:48:46 -0600</pubDate>
-    <lastBuildDate>Mon, 24 Sep 2018 18:48:46 -0600</lastBuildDate>
-    <generator>Jekyll v3.4.3</generator>
+    <link>https://neener54.github.io/</link>
+    <atom:link href="https://neener54.github.iohttps://neener54.github.io/sitemap.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Mon, 27 May 2019 15:36:56 -0600</pubDate>
+    <lastBuildDate>Mon, 27 May 2019 15:36:56 -0600</lastBuildDate>
+    <generator>Jekyll v3.8.4</generator>
     
       <item>
         <title>Leadership and Management</title>
         <description>&lt;h2 id=&quot;what-is-the-fundamental-difference-between-leadership-and-management&quot;&gt;What is the fundamental Difference between Leadership and Management?&lt;/h2&gt;
 </description>
         <pubDate>Sun, 09 Jul 2017 07:50:39 -0600</pubDate>
-        <link>http://localhost:4000/leadership/management/2017/07/09/leadership-and-management.html</link>
-        <guid isPermaLink="true">http://localhost:4000/leadership/management/2017/07/09/leadership-and-management.html</guid>
+        <link>https://neener54.github.io/leadership/management/2017/07/09/leadership-and-management.html</link>
+        <guid isPermaLink="true">https://neener54.github.io/leadership/management/2017/07/09/leadership-and-management.html</guid>
         
         
         <category>leadership</category>
@@ -88,8 +88,8 @@ The next time someone approaches you with a problem that feels like it should be
 &lt;p&gt;I feel strongly that every organizational culture would change dramatically if they took this approach. The guiding principles of each role will reveal common areas of interest/concern. You’ll find allies you never knew you had. You’ll have more insight into the health of the organization, into the well-being of the product and the happiness of the people you work with.&lt;/p&gt;
 </description>
         <pubDate>Fri, 24 Feb 2017 06:50:39 -0700</pubDate>
-        <link>http://localhost:4000/leadership/management/2017/02/24/principles-and-principalities.html</link>
-        <guid isPermaLink="true">http://localhost:4000/leadership/management/2017/02/24/principles-and-principalities.html</guid>
+        <link>https://neener54.github.io/leadership/management/2017/02/24/principles-and-principalities.html</link>
+        <guid isPermaLink="true">https://neener54.github.io/leadership/management/2017/02/24/principles-and-principalities.html</guid>
         
         
         <category>leadership</category>
@@ -102,7 +102,7 @@ The next time someone approaches you with a problem that feels like it should be
       <item>
         <title>Status Page Gem</title>
         <description>Status Page Gem</description>
-        <link>http://localhost:4000https://github.com/Neener54/status_page</link>
+        <link>https://neener54.github.iohttps://github.com/Neener54/status_page</link>
         <pubDate>Wed, 01 Aug 2018 00:00:00 -0600</pubDate>
         
         <category>ruby</category>
